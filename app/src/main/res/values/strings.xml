@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuestionAnswerApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_question">Question…</string>
+    <string name="hint_answer1">First Answer…</string>
+    <string name="hint_answer2">Second Answer…</string>
+    <string name="hint_answer3">Third Answer…</string>
+    <string name="hint_answer4">Fourth Answer…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="title_activity_answers">AnswersActivity</string>
+</resources>
